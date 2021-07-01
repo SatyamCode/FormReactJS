@@ -10,6 +10,8 @@ export default function validateForm(values) {
     }
     if(!values.password) {
         errors.password = "Password Required";
+    }else if(values.password.length < 6){
+        errors.password = "Password is shorter than 6 characters"
     }
 
     return errors;
