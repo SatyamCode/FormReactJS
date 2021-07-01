@@ -11,7 +11,7 @@ function FormSuccess (props)  {
     return (
         <div className="form-content">
             <div className="form-success">
-            <p class="read-username">Hello {value.username}!<br></br></p>
+            <p className="read-username">Hello {value.username}!<br></br></p>
             Welcome to my website.
             Here you can explore tech, games, etc. Have fun.            
             </div>
