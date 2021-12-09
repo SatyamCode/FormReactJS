@@ -20,6 +20,6 @@ When you click the Register button, you will be given a greeting with your usern
 
 That's it. It was fun making it.
 
-U can checkout this code working at https://formreactjs.herokuapp.com/
+U can checkout this code working at https://itzsatya.github.io/FormReactJS/ and https://formreactjs.herokuapp.com/
 
 Peace
